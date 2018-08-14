@@ -1,0 +1,9 @@
+{
+  "email": "",
+  "password": "",
+  "lotUrl": "https://www.vakantieveilingen.nl/dagje-weg/pretparken/pretpark_walibi-holland.html",
+  "maxBid": 10,
+  "bidDelayMin": 500,
+  "bidDelayMax": 1500,
+  "doNonSnipes": true
+}
